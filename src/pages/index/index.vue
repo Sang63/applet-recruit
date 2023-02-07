@@ -2,7 +2,7 @@
 	<view class="content">
 		<image class="logo" src="/static/logo.png"></image>
 		<view>
-			<text class="title">{{title}}</text>
+			<text class="title">12312312312313123113313132</text>
 		</view>
 	</view>
 </template>
